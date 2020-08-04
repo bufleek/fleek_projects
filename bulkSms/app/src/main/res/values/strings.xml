@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Bulk SMS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_list_fragment_tag">SendListFragment</string>
+    <string name="developed_by">Developed By Bruno Kiprop (brunookiprop@gmail.com)</string>
+    <string name="send_list_activity_name">My Send List</string>
+    <string name="home">Home</string>
+    <string name="send_sms">Send sms</string>
+    <string name="recipients">Recipients</string>
+    <string name="hint_message">Message ...</string>
+    <string name="all">All</string>
+    <string name="select_recipients">or Select</string>
+    <string name="send">Send</string>
+    <string name="dialog_blank_message">Are you sure to send a blank message?</string>
+    <string name="dialog_blank_message_title">Blank Message</string>
+    <string name="yes">Yes</string>
+    <string name="no">NO</string>
+    <string name="add_contact_fragment_tag">AddContactFragment</string>
+    <string name="hint_name">Name ...</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="delete">Delete</string>
+</resources>

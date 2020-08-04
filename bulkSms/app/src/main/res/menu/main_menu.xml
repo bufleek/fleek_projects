@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_send_list"
+        android:icon="@drawable/ic_baseline_contacts_24"
+        android:title="@string/send_list_activity_name"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+</menu>
