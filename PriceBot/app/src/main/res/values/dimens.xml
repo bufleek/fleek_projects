@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="btn_stroke">2dp</dimen>
+    <dimen name="btn_corner_radius">20dp</dimen>
+    <dimen name="large_text_size">25sp</dimen>
+</resources>
